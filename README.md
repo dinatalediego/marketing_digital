@@ -36,6 +36,18 @@ Llegar al punto en que puedas responder, con datos:
 7. [`07_experimentos_y_reglas_de_decision.md`](docs/07_experimentos_y_reglas_de_decision.md) — cómo probar una cosa por vez y decidir sin enamorarte de un anuncio.
 8. [`08_rutina_growth_30_dias.md`](docs/08_rutina_growth_30_dias.md) — entrenamiento de 30 días para pasar de principiante a operador.
 
+## Ruta del Director — operar Marketing + Comercial como un sistema
+
+9. [`09_growth_os_director_90_dias.md`](docs/09_growth_os_director_90_dias.md) — sistema de 90 días: orgánico, pauta, ventas, inteligencia comercial, reviews y dashboard ejecutivo.
+10. [`10_hitos_para_subir_presupuesto.md`](docs/10_hitos_para_subir_presupuesto.md) — evidencia que autoriza pasar de S/10 a niveles mayores sin escalar por intuición.
+11. [`11_hoy_s10_launch_card.md`](docs/11_hoy_s10_launch_card.md) — tarjeta operativa para ejecutar los primeros S/10 y decidir qué hacer en la siguiente ventana.
+
+Recursos operativos:
+
+- [`calendar/primeros_30_dias.csv`](calendar/primeros_30_dias.csv) — calendario integrado de pauta + orgánico + diseño + comercial + inteligencia.
+- [`governance/raci_growth_comercial.md`](governance/raci_growth_comercial.md) — responsabilidades entre Dirección, Marketing, Diseño, Performance, Ventas e Inteligencia Comercial.
+- [`data/daily_growth_scorecard.csv`](data/daily_growth_scorecard.csv) — scorecard diario desde gasto hasta margen después de pauta.
+
 ## Cómo estudiar este repositorio
 
 No avances por cantidad de páginas leídas. Avanza por **evidencia producida**.
